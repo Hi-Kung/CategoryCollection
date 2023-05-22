@@ -1,0 +1,6 @@
+framework module CategoryCollection {
+  umbrella header "CategoryCollection-umbrella.h"
+
+  export *
+  module * { export * }
+}
